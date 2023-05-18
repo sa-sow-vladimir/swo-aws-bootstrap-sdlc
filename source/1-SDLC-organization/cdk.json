@@ -5,7 +5,7 @@
     "github_alias": "sa-sow-vladimir",
     "github_repo_name": "swo-aws-bootstrap-sdlc",
     "github_repo_branch": "main",
-    "email": "vladimir.garcia@softwareone.com",
+    "email": "vlacho2008@gmail.com",
     "force_email_verification": true,
     "pipeline_deployable_regions": [
       "us-east-1"
