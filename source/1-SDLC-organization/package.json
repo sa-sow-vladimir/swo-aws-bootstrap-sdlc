@@ -11,8 +11,8 @@
     "test": "echo no tests",
     "cdk": "cdk",
     "bootstrap": "cdk --profile personal-dev bootstrap --cloudformation-execution-policies arn:aws:iam::aws:policy/AdministratorAccess",
-    "synth": "cdk --profile main-admin synth",
-    "deploy": "cdk --profile main-admin deploy"
+    "synth": "cdk --profile personal-dev synth",
+    "deploy": "cdk --profile personal-dev deploy"
   },
   "devDependencies": {
     "@aws-cdk/assert": "2.60.0",
